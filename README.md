@@ -12,7 +12,9 @@
 
 		The output of the function is an AST
 		
-Note: delim (line #4) should have been "delim := ';' '\n'+"
+Note: wrong delim definition, should have been
+
+		delim := ';' '\n'+
 
 The program is basically correct, but doesn't take into consideration newlines as delimiters between
 statements. Also, no checks for op or reg validity.
