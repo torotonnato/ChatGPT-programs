@@ -13,8 +13,9 @@
 		The output of the function is an AST
 		
 Note: delim (line #4) should have been "delim := ';' '\n'+"
-The program is correct, but doesn't take into consideration newlines as delimiters between
-statements. No checks for op or reg validity.
+
+The program is basically correct, but doesn't take into consideration newlines as delimiters between
+statements. Also, no checks for op or reg validity.
 
 Nonetheless impressive.
 
@@ -40,7 +41,9 @@ Still impressed!
 		Write a small C program to play pong on the terminal using ansi escape characters
 
 No compile errors, added a small function to put the terminal in non-canonical mode.
+
 w, s (player1) and i, k (player2) to play.
+
 Note: ^C to quit, reset the terminal manually.
 
 # Unbelievable
