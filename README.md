@@ -26,7 +26,7 @@ Nonetheless impressive.
 		and returns an array of bytes. The function will output valid x86
 		instructions that codify a jump-if-not-zero to each value in "disp"
 
-A warning from the compiler 
+A warning from GCC:
 
 		oisc.c:39:9: warning: incompatible implicit declaration of built-in function ‘memcpy’
 		oisc.c:9:1: note: include ‘<string.h>’ or provide a declaration of ‘memcpy’
