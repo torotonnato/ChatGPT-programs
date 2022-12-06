@@ -12,10 +12,11 @@
 
 		The output of the function is an AST
 		
-	Note: delim (line #4) should have been "delim := ';' '\n'+"
-	The program is correct, but doesn't care take into consideration newlines as delimiters between
-	statements. No checks for op or reg syntactical correctness.
-	Nonetheless impressive.
+Note: delim (line #4) should have been "delim := ';' '\n'+"
+The program is correct, but doesn't care take into consideration newlines as delimiters between
+statements. No checks for op or reg validity.
+
+Nonetheless impressive.
 
 ## oisc.c
 		Write a small C function that accept an array "disp" of integers
