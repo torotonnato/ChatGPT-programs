@@ -36,6 +36,8 @@ and a minor (but fatal) logic error at lines 38 and 39:
 		int jnz_size = sizeof(jnz);
 		memcpy(buf + offset, jnz, jnz_size);
 
+Note: the query should have asked for "decrement and jnz" instructions. Too late.
+
 Still impressed!
 
 ## pong.c
