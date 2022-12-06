@@ -1,4 +1,4 @@
-# ChatGPT-programs
+# ChatGPT made programs
 
 ## AST.go
 
