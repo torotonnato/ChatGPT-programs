@@ -43,4 +43,4 @@ No compile errors, added a small function to put the terminal in non-canonical m
 w, s (player1) and i, k (player2) to play.
 Note: ^C to quit, reset the terminal manually.
 
-#Unbelievable
+# Unbelievable
